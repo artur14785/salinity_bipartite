@@ -1,0 +1,538 @@
+Molecule_name,Description_name,Freq_1,Freq_comp,Freq_desc
+10.1-Aminocyclopropane-1-carboxylic acid ,001.Metabolic pathways,1,4,52
+10.1-Aminocyclopropane-1-carboxylic acid ,001.Metabolic pathways,1,4,52
+04.Abscisic acid,001.Metabolic pathways,1,12,52
+23.Acetyl-CoA,001.Metabolic pathways,1,1,52
+07.Ascorbic acid,001.Metabolic pathways,1,5,52
+08.Chlorophyll a,001.Metabolic pathways,1,5,52
+12.Citric acid,001.Metabolic pathways,1,3,52
+25.Dihydroxyacetone,001.Metabolic pathways,1,1,52
+26.D-Xylose-5-phosphate (D-Xylose),001.Metabolic pathways,1,1,52
+05.Ethylene,001.Metabolic pathways,1,7,52
+28.Fructose,001.Metabolic pathways,1,1,52
+29.Fructose-6-phosphate,001.Metabolic pathways,1,1,52
+30.Fumarate,001.Metabolic pathways,1,1,52
+31.GABA,001.Metabolic pathways,1,1,52
+33.Gibberellin A4,001.Metabolic pathways,1,1,52
+34.Glucose,001.Metabolic pathways,1,1,52
+15.Glucose 6-phosphate,001.Metabolic pathways,1,2,52
+35.Glutamic acid,001.Metabolic pathways,1,1,52
+16.Glutathione,001.Metabolic pathways,1,2,52
+17.Glyceraldehyde-3-phosphate,001.Metabolic pathways,1,2,52
+36.Glycerate,001.Metabolic pathways,1,1,52
+18.Glycine,001.Metabolic pathways,1,2,52
+11.Glycine betaine,001.Metabolic pathways,1,4,52
+37.Glycolate,001.Metabolic pathways,1,1,52
+39.Hydroxypyruvic acid,001.Metabolic pathways,1,1,52
+02.Indole-3-acetic acid,001.Metabolic pathways,1,17,52
+40.Isocitric acid,001.Metabolic pathways,1,1,52
+14.Jasmonic acid,001.Metabolic pathways,1,3,52
+41.Kaempferol,001.Metabolic pathways,1,1,52
+42.L-Glutamine,001.Metabolic pathways,1,1,52
+01.L-Proline,001.Metabolic pathways,1,19,52
+44.L-Tryptophan,001.Metabolic pathways,1,1,52
+45.Luteolin,001.Metabolic pathways,1,1,52
+19.Malic acid,001.Metabolic pathways,1,2,52
+46.Methionine,001.Metabolic pathways,1,1,52
+47.Oxaloacetic acid,001.Metabolic pathways,1,1,52
+48.Phosphoenolpyruvic acid,001.Metabolic pathways,1,1,52
+49.Quercetin,001.Metabolic pathways,1,1,52
+06.Salicylic acid,001.Metabolic pathways,1,6,52
+52.Serine,001.Metabolic pathways,1,1,52
+21.Succinate,001.Metabolic pathways,1,2,52
+22.Sucrose,001.Metabolic pathways,1,2,52
+54.Threonine,001.Metabolic pathways,1,1,52
+10.1-Aminocyclopropane-1-carboxylic acid ,002.Biosynthesis of secondary metabolites,1,4,43
+10.1-Aminocyclopropane-1-carboxylic acid ,002.Biosynthesis of secondary metabolites,1,4,43
+04.Abscisic acid,002.Biosynthesis of secondary metabolites,1,12,43
+23.Acetyl-CoA,002.Biosynthesis of secondary metabolites,1,1,43
+07.Ascorbic acid,002.Biosynthesis of secondary metabolites,1,5,43
+08.Chlorophyll a,002.Biosynthesis of secondary metabolites,1,5,43
+12.Citric acid,002.Biosynthesis of secondary metabolites,1,3,43
+05.Ethylene,002.Biosynthesis of secondary metabolites,1,7,43
+28.Fructose,002.Biosynthesis of secondary metabolites,1,1,43
+29.Fructose-6-phosphate,002.Biosynthesis of secondary metabolites,1,1,43
+30.Fumarate,002.Biosynthesis of secondary metabolites,1,1,43
+33.Gibberellin A4,002.Biosynthesis of secondary metabolites,1,1,43
+34.Glucose,002.Biosynthesis of secondary metabolites,1,1,43
+15.Glucose 6-phosphate,002.Biosynthesis of secondary metabolites,1,2,43
+35.Glutamic acid,002.Biosynthesis of secondary metabolites,1,1,43
+17.Glyceraldehyde-3-phosphate,002.Biosynthesis of secondary metabolites,1,2,43
+36.Glycerate,002.Biosynthesis of secondary metabolites,1,1,43
+18.Glycine,002.Biosynthesis of secondary metabolites,1,2,43
+37.Glycolate,002.Biosynthesis of secondary metabolites,1,1,43
+39.Hydroxypyruvic acid,002.Biosynthesis of secondary metabolites,1,1,43
+40.Isocitric acid,002.Biosynthesis of secondary metabolites,1,1,43
+14.Jasmonic acid,002.Biosynthesis of secondary metabolites,1,3,43
+41.Kaempferol,002.Biosynthesis of secondary metabolites,1,1,43
+01.L-Proline,002.Biosynthesis of secondary metabolites,1,19,43
+44.L-Tryptophan,002.Biosynthesis of secondary metabolites,1,1,43
+45.Luteolin,002.Biosynthesis of secondary metabolites,1,1,43
+19.Malic acid,002.Biosynthesis of secondary metabolites,1,2,43
+46.Methionine,002.Biosynthesis of secondary metabolites,1,1,43
+47.Oxaloacetic acid,002.Biosynthesis of secondary metabolites,1,1,43
+48.Phosphoenolpyruvic acid,002.Biosynthesis of secondary metabolites,1,1,43
+49.Quercetin,002.Biosynthesis of secondary metabolites,1,1,43
+06.Salicylic acid,002.Biosynthesis of secondary metabolites,1,6,43
+52.Serine,002.Biosynthesis of secondary metabolites,1,1,43
+21.Succinate,002.Biosynthesis of secondary metabolites,1,2,43
+22.Sucrose,002.Biosynthesis of secondary metabolites,1,2,43
+54.Threonine,002.Biosynthesis of secondary metabolites,1,1,43
+10.1-Aminocyclopropane-1-carboxylic acid ,003.Biosynthesis of plant secondary metabolites,1,4,26
+10.1-Aminocyclopropane-1-carboxylic acid ,003.Biosynthesis of plant secondary metabolites,1,4,26
+04.Abscisic acid,003.Biosynthesis of plant secondary metabolites,1,12,26
+23.Acetyl-CoA,003.Biosynthesis of plant secondary metabolites,1,1,26
+08.Chlorophyll a,003.Biosynthesis of plant secondary metabolites,1,5,26
+12.Citric acid,003.Biosynthesis of plant secondary metabolites,1,3,26
+05.Ethylene,003.Biosynthesis of plant secondary metabolites,1,7,26
+29.Fructose-6-phosphate,003.Biosynthesis of plant secondary metabolites,1,1,26
+30.Fumarate,003.Biosynthesis of plant secondary metabolites,1,1,26
+35.Glutamic acid,003.Biosynthesis of plant secondary metabolites,1,1,26
+17.Glyceraldehyde-3-phosphate,003.Biosynthesis of plant secondary metabolites,1,2,26
+18.Glycine,003.Biosynthesis of plant secondary metabolites,1,2,26
+40.Isocitric acid,003.Biosynthesis of plant secondary metabolites,1,1,26
+14.Jasmonic acid,003.Biosynthesis of plant secondary metabolites,1,3,26
+42.L-Glutamine,003.Biosynthesis of plant secondary metabolites,1,1,26
+44.L-Tryptophan,003.Biosynthesis of plant secondary metabolites,1,1,26
+19.Malic acid,003.Biosynthesis of plant secondary metabolites,1,2,26
+46.Methionine,003.Biosynthesis of plant secondary metabolites,1,1,26
+47.Oxaloacetic acid,003.Biosynthesis of plant secondary metabolites,1,1,26
+48.Phosphoenolpyruvic acid,003.Biosynthesis of plant secondary metabolites,1,1,26
+52.Serine,003.Biosynthesis of plant secondary metabolites,1,1,26
+21.Succinate,003.Biosynthesis of plant secondary metabolites,1,2,26
+54.Threonine,003.Biosynthesis of plant secondary metabolites,1,1,26
+10.1-Aminocyclopropane-1-carboxylic acid ,004.Biosynthesis of plant hormones,1,4,21
+10.1-Aminocyclopropane-1-carboxylic acid ,004.Biosynthesis of plant hormones,1,4,21
+04.Abscisic acid,004.Biosynthesis of plant hormones,1,12,21
+23.Acetyl-CoA,004.Biosynthesis of plant hormones,1,1,21
+12.Citric acid,004.Biosynthesis of plant hormones,1,3,21
+05.Ethylene,004.Biosynthesis of plant hormones,1,7,21
+29.Fructose-6-phosphate,004.Biosynthesis of plant hormones,1,1,21
+30.Fumarate,004.Biosynthesis of plant hormones,1,1,21
+17.Glyceraldehyde-3-phosphate,004.Biosynthesis of plant hormones,1,2,21
+02.Indole-3-acetic acid,004.Biosynthesis of plant hormones,1,17,21
+40.Isocitric acid,004.Biosynthesis of plant hormones,1,1,21
+14.Jasmonic acid,004.Biosynthesis of plant hormones,1,3,21
+44.L-Tryptophan,004.Biosynthesis of plant hormones,1,1,21
+19.Malic acid,004.Biosynthesis of plant hormones,1,2,21
+46.Methionine,004.Biosynthesis of plant hormones,1,1,21
+47.Oxaloacetic acid,004.Biosynthesis of plant hormones,1,1,21
+48.Phosphoenolpyruvic acid,004.Biosynthesis of plant hormones,1,1,21
+06.Salicylic acid,004.Biosynthesis of plant hormones,1,6,21
+21.Succinate,004.Biosynthesis of plant hormones,1,2,21
+23.Acetyl-CoA,005.Carbon metabolism,1,1,21
+12.Citric acid,005.Carbon metabolism,1,3,21
+25.Dihydroxyacetone,005.Carbon metabolism,1,1,21
+29.Fructose-6-phosphate,005.Carbon metabolism,1,1,21
+30.Fumarate,005.Carbon metabolism,1,1,21
+35.Glutamic acid,005.Carbon metabolism,1,1,21
+17.Glyceraldehyde-3-phosphate,005.Carbon metabolism,1,2,21
+36.Glycerate,005.Carbon metabolism,1,1,21
+18.Glycine,005.Carbon metabolism,1,2,21
+37.Glycolate,005.Carbon metabolism,1,1,21
+39.Hydroxypyruvic acid,005.Carbon metabolism,1,1,21
+40.Isocitric acid,005.Carbon metabolism,1,1,21
+19.Malic acid,005.Carbon metabolism,1,2,21
+47.Oxaloacetic acid,005.Carbon metabolism,1,1,21
+48.Phosphoenolpyruvic acid,005.Carbon metabolism,1,1,21
+52.Serine,005.Carbon metabolism,1,1,21
+21.Succinate,005.Carbon metabolism,1,2,21
+12.Citric acid,006.Biosynthesis of amino acids,1,3,18
+29.Fructose-6-phosphate,006.Biosynthesis of amino acids,1,1,18
+35.Glutamic acid,006.Biosynthesis of amino acids,1,1,18
+17.Glyceraldehyde-3-phosphate,006.Biosynthesis of amino acids,1,2,18
+18.Glycine,006.Biosynthesis of amino acids,1,2,18
+40.Isocitric acid,006.Biosynthesis of amino acids,1,1,18
+42.L-Glutamine,006.Biosynthesis of amino acids,1,1,18
+01.L-Proline,006.Biosynthesis of amino acids,1,19,18
+44.L-Tryptophan,006.Biosynthesis of amino acids,1,1,18
+46.Methionine,006.Biosynthesis of amino acids,1,1,18
+47.Oxaloacetic acid,006.Biosynthesis of amino acids,1,1,18
+48.Phosphoenolpyruvic acid,006.Biosynthesis of amino acids,1,1,18
+52.Serine,006.Biosynthesis of amino acids,1,1,18
+54.Threonine,006.Biosynthesis of amino acids,1,1,18
+23.Acetyl-CoA,007.Glyoxylate and dicarboxylate metabolism,1,1,18
+12.Citric acid,007.Glyoxylate and dicarboxylate metabolism,1,3,18
+35.Glutamic acid,007.Glyoxylate and dicarboxylate metabolism,1,1,18
+36.Glycerate,007.Glyoxylate and dicarboxylate metabolism,1,1,18
+18.Glycine,007.Glyoxylate and dicarboxylate metabolism,1,2,18
+37.Glycolate,007.Glyoxylate and dicarboxylate metabolism,1,1,18
+39.Hydroxypyruvic acid,007.Glyoxylate and dicarboxylate metabolism,1,1,18
+40.Isocitric acid,007.Glyoxylate and dicarboxylate metabolism,1,1,18
+42.L-Glutamine,007.Glyoxylate and dicarboxylate metabolism,1,1,18
+19.Malic acid,007.Glyoxylate and dicarboxylate metabolism,1,2,18
+47.Oxaloacetic acid,007.Glyoxylate and dicarboxylate metabolism,1,1,18
+52.Serine,007.Glyoxylate and dicarboxylate metabolism,1,1,18
+21.Succinate,007.Glyoxylate and dicarboxylate metabolism,1,2,18
+23.Acetyl-CoA,008.Biosynthesis of cofactors,1,1,17
+07.Ascorbic acid,008.Biosynthesis of cofactors,1,5,17
+12.Citric acid,008.Biosynthesis of cofactors,1,3,17
+29.Fructose-6-phosphate,008.Biosynthesis of cofactors,1,1,17
+35.Glutamic acid,008.Biosynthesis of cofactors,1,1,17
+16.Glutathione,008.Biosynthesis of cofactors,1,2,17
+17.Glyceraldehyde-3-phosphate,008.Biosynthesis of cofactors,1,2,17
+18.Glycine,008.Biosynthesis of cofactors,1,2,17
+40.Isocitric acid,008.Biosynthesis of cofactors,1,1,17
+42.L-Glutamine,008.Biosynthesis of cofactors,1,1,17
+44.L-Tryptophan,008.Biosynthesis of cofactors,1,1,17
+46.Methionine,008.Biosynthesis of cofactors,1,1,17
+47.Oxaloacetic acid,008.Biosynthesis of cofactors,1,1,17
+48.Phosphoenolpyruvic acid,008.Biosynthesis of cofactors,1,1,17
+52.Serine,008.Biosynthesis of cofactors,1,1,17
+23.Acetyl-CoA,009.Biosynthesis of phenylpropanoids,1,1,16
+12.Citric acid,009.Biosynthesis of phenylpropanoids,1,3,16
+29.Fructose-6-phosphate,009.Biosynthesis of phenylpropanoids,1,1,16
+30.Fumarate,009.Biosynthesis of phenylpropanoids,1,1,16
+17.Glyceraldehyde-3-phosphate,009.Biosynthesis of phenylpropanoids,1,2,16
+40.Isocitric acid,009.Biosynthesis of phenylpropanoids,1,1,16
+41.Kaempferol,009.Biosynthesis of phenylpropanoids,1,1,16
+44.L-Tryptophan,009.Biosynthesis of phenylpropanoids,1,1,16
+19.Malic acid,009.Biosynthesis of phenylpropanoids,1,2,16
+47.Oxaloacetic acid,009.Biosynthesis of phenylpropanoids,1,1,16
+48.Phosphoenolpyruvic acid,009.Biosynthesis of phenylpropanoids,1,1,16
+06.Salicylic acid,009.Biosynthesis of phenylpropanoids,1,6,16
+21.Succinate,009.Biosynthesis of phenylpropanoids,1,2,16
+04.Abscisic acid,010.Biosynthesis of terpenoids and steroids,1,12,13
+23.Acetyl-CoA,010.Biosynthesis of terpenoids and steroids,1,1,13
+12.Citric acid,010.Biosynthesis of terpenoids and steroids,1,3,13
+29.Fructose-6-phosphate,010.Biosynthesis of terpenoids and steroids,1,1,13
+30.Fumarate,010.Biosynthesis of terpenoids and steroids,1,1,13
+15.Glucose 6-phosphate,010.Biosynthesis of terpenoids and steroids,1,2,13
+17.Glyceraldehyde-3-phosphate,010.Biosynthesis of terpenoids and steroids,1,2,13
+40.Isocitric acid,010.Biosynthesis of terpenoids and steroids,1,1,13
+19.Malic acid,010.Biosynthesis of terpenoids and steroids,1,2,13
+47.Oxaloacetic acid,010.Biosynthesis of terpenoids and steroids,1,1,13
+48.Phosphoenolpyruvic acid,010.Biosynthesis of terpenoids and steroids,1,1,13
+21.Succinate,010.Biosynthesis of terpenoids and steroids,1,2,13
+23.Acetyl-CoA,100.Fatty acid elongation,1,1,1
+35.Glutamic acid,101.Gap junction,1,1,1
+52.Serine,102.Glycerophospholipid metabolism,1,1,1
+31.GABA,103.GnRH secretion,1,1,1
+35.Glutamic acid,104.Histidine metabolism,1,1,1
+23.Acetyl-CoA,106.Lysine biosynthesis,1,1,1
+52.Serine,108.Nonribosomal peptide structures,1,1,1
+26.D-Xylose-5-phosphate (D-Xylose),011.ABC transporters,1,1,13
+28.Fructose,011.ABC transporters,1,1,13
+34.Glucose,011.ABC transporters,1,1,13
+35.Glutamic acid,011.ABC transporters,1,1,13
+16.Glutathione,011.ABC transporters,1,2,13
+18.Glycine,011.ABC transporters,1,2,13
+11.Glycine betaine,011.ABC transporters,1,4,13
+42.L-Glutamine,011.ABC transporters,1,1,13
+01.L-Proline,011.ABC transporters,1,19,13
+52.Serine,011.ABC transporters,1,1,13
+22.Sucrose,011.ABC transporters,1,2,13
+54.Threonine,011.ABC transporters,1,1,13
+35.Glutamic acid,110.Phospholipase D signaling pathway,1,1,1
+23.Acetyl-CoA,"111.Pinene, camphor and geraniol degradation",1,1,1
+06.Salicylic acid,113.Polycyclic aromatic hydrocarbon degradation,1,6,1
+01.L-Proline,114.Prodigiosin biosynthesis,1,19,1
+31.GABA,115.Quorum sensing,1,1,1
+52.Serine,116.Sphingolipid metabolism,1,1,1
+52.Serine,117.Sphingolipid signaling pathway,1,1,1
+23.Acetyl-CoA,012.Biosynthesis of alkaloids derived from shikimate pathway,1,1,13
+12.Citric acid,012.Biosynthesis of alkaloids derived from shikimate pathway,1,3,13
+29.Fructose-6-phosphate,012.Biosynthesis of alkaloids derived from shikimate pathway,1,1,13
+30.Fumarate,012.Biosynthesis of alkaloids derived from shikimate pathway,1,1,13
+17.Glyceraldehyde-3-phosphate,012.Biosynthesis of alkaloids derived from shikimate pathway,1,2,13
+40.Isocitric acid,012.Biosynthesis of alkaloids derived from shikimate pathway,1,1,13
+44.L-Tryptophan,012.Biosynthesis of alkaloids derived from shikimate pathway,1,1,13
+19.Malic acid,012.Biosynthesis of alkaloids derived from shikimate pathway,1,2,13
+47.Oxaloacetic acid,012.Biosynthesis of alkaloids derived from shikimate pathway,1,1,13
+48.Phosphoenolpyruvic acid,012.Biosynthesis of alkaloids derived from shikimate pathway,1,1,13
+21.Succinate,012.Biosynthesis of alkaloids derived from shikimate pathway,1,2,13
+07.Ascorbic acid,121.Vitamin digestion and absorption,1,5,1
+23.Acetyl-CoA,"013.Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid",1,1,12
+12.Citric acid,"013.Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid",1,3,12
+29.Fructose-6-phosphate,"013.Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid",1,1,12
+30.Fumarate,"013.Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid",1,1,12
+35.Glutamic acid,"013.Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid",1,1,12
+17.Glyceraldehyde-3-phosphate,"013.Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid",1,2,12
+40.Isocitric acid,"013.Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid",1,1,12
+19.Malic acid,"013.Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid",1,2,12
+47.Oxaloacetic acid,"013.Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid",1,1,12
+21.Succinate,"013.Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid",1,2,12
+36.Glycerate,"014.Glycine, serine and threonine metabolism",1,1,12
+18.Glycine,"014.Glycine, serine and threonine metabolism",1,2,12
+11.Glycine betaine,"014.Glycine, serine and threonine metabolism",1,4,12
+39.Hydroxypyruvic acid,"014.Glycine, serine and threonine metabolism",1,1,12
+44.L-Tryptophan,"014.Glycine, serine and threonine metabolism",1,1,12
+52.Serine,"014.Glycine, serine and threonine metabolism",1,1,12
+54.Threonine,"014.Glycine, serine and threonine metabolism",1,1,12
+23.Acetyl-CoA,015.Methane metabolism,1,1,12
+25.Dihydroxyacetone,015.Methane metabolism,1,1,12
+29.Fructose-6-phosphate,015.Methane metabolism,1,1,12
+17.Glyceraldehyde-3-phosphate,015.Methane metabolism,1,2,12
+36.Glycerate,015.Methane metabolism,1,1,12
+18.Glycine,015.Methane metabolism,1,2,12
+39.Hydroxypyruvic acid,015.Methane metabolism,1,1,12
+19.Malic acid,015.Methane metabolism,1,2,12
+47.Oxaloacetic acid,015.Methane metabolism,1,1,12
+48.Phosphoenolpyruvic acid,015.Methane metabolism,1,1,12
+52.Serine,015.Methane metabolism,1,1,12
+23.Acetyl-CoA,016.Biosynthesis of alkaloids derived from histidine and purine,1,1,11
+12.Citric acid,016.Biosynthesis of alkaloids derived from histidine and purine,1,3,11
+29.Fructose-6-phosphate,016.Biosynthesis of alkaloids derived from histidine and purine,1,1,11
+30.Fumarate,016.Biosynthesis of alkaloids derived from histidine and purine,1,1,11
+17.Glyceraldehyde-3-phosphate,016.Biosynthesis of alkaloids derived from histidine and purine,1,2,11
+40.Isocitric acid,016.Biosynthesis of alkaloids derived from histidine and purine,1,1,11
+19.Malic acid,016.Biosynthesis of alkaloids derived from histidine and purine,1,2,11
+47.Oxaloacetic acid,016.Biosynthesis of alkaloids derived from histidine and purine,1,1,11
+21.Succinate,016.Biosynthesis of alkaloids derived from histidine and purine,1,2,11
+23.Acetyl-CoA,017.Biosynthesis of alkaloids derived from terpenoid and polyketide,1,1,11
+12.Citric acid,017.Biosynthesis of alkaloids derived from terpenoid and polyketide,1,3,11
+29.Fructose-6-phosphate,017.Biosynthesis of alkaloids derived from terpenoid and polyketide,1,1,11
+30.Fumarate,017.Biosynthesis of alkaloids derived from terpenoid and polyketide,1,1,11
+17.Glyceraldehyde-3-phosphate,017.Biosynthesis of alkaloids derived from terpenoid and polyketide,1,2,11
+40.Isocitric acid,017.Biosynthesis of alkaloids derived from terpenoid and polyketide,1,1,11
+19.Malic acid,017.Biosynthesis of alkaloids derived from terpenoid and polyketide,1,2,11
+47.Oxaloacetic acid,017.Biosynthesis of alkaloids derived from terpenoid and polyketide,1,1,11
+21.Succinate,017.Biosynthesis of alkaloids derived from terpenoid and polyketide,1,2,11
+23.Acetyl-CoA,018.2-Oxocarboxylic acid metabolism,1,1,10
+12.Citric acid,018.2-Oxocarboxylic acid metabolism,1,3,10
+35.Glutamic acid,018.2-Oxocarboxylic acid metabolism,1,1,10
+40.Isocitric acid,018.2-Oxocarboxylic acid metabolism,1,1,10
+44.L-Tryptophan,018.2-Oxocarboxylic acid metabolism,1,1,10
+46.Methionine,018.2-Oxocarboxylic acid metabolism,1,1,10
+47.Oxaloacetic acid,018.2-Oxocarboxylic acid metabolism,1,1,10
+23.Acetyl-CoA,019.Citrate cycle (TCA cycle),1,1,10
+12.Citric acid,019.Citrate cycle (TCA cycle),1,3,10
+30.Fumarate,019.Citrate cycle (TCA cycle),1,1,10
+40.Isocitric acid,019.Citrate cycle (TCA cycle),1,1,10
+19.Malic acid,019.Citrate cycle (TCA cycle),1,2,10
+47.Oxaloacetic acid,019.Citrate cycle (TCA cycle),1,1,10
+48.Phosphoenolpyruvic acid,019.Citrate cycle (TCA cycle),1,1,10
+21.Succinate,019.Citrate cycle (TCA cycle),1,2,10
+12.Citric acid,"020.Alanine, aspartate and glutamate metabolism",1,3,9
+30.Fumarate,"020.Alanine, aspartate and glutamate metabolism",1,1,9
+31.GABA,"020.Alanine, aspartate and glutamate metabolism",1,1,9
+35.Glutamic acid,"020.Alanine, aspartate and glutamate metabolism",1,1,9
+42.L-Glutamine,"020.Alanine, aspartate and glutamate metabolism",1,1,9
+47.Oxaloacetic acid,"020.Alanine, aspartate and glutamate metabolism",1,1,9
+21.Succinate,"020.Alanine, aspartate and glutamate metabolism",1,2,9
+35.Glutamic acid,021.D-Amino acid metabolism,1,1,9
+18.Glycine,021.D-Amino acid metabolism,1,2,9
+42.L-Glutamine,021.D-Amino acid metabolism,1,1,9
+01.L-Proline,021.D-Amino acid metabolism,1,19,9
+46.Methionine,021.D-Amino acid metabolism,1,1,9
+47.Oxaloacetic acid,021.D-Amino acid metabolism,1,1,9
+52.Serine,021.D-Amino acid metabolism,1,1,9
+54.Threonine,021.D-Amino acid metabolism,1,1,9
+12.Citric acid,022.Two-component system,1,3,9
+30.Fumarate,022.Two-component system,1,1,9
+34.Glucose,022.Two-component system,1,1,9
+15.Glucose 6-phosphate,022.Two-component system,1,2,9
+35.Glutamic acid,022.Two-component system,1,1,9
+42.L-Glutamine,022.Two-component system,1,1,9
+19.Malic acid,022.Two-component system,1,2,9
+47.Oxaloacetic acid,022.Two-component system,1,1,9
+21.Succinate,022.Two-component system,1,2,9
+35.Glutamic acid,023.Aminoacyl-tRNA biosynthesis,1,1,8
+18.Glycine,023.Aminoacyl-tRNA biosynthesis,1,2,8
+42.L-Glutamine,023.Aminoacyl-tRNA biosynthesis,1,1,8
+01.L-Proline,023.Aminoacyl-tRNA biosynthesis,1,19,8
+44.L-Tryptophan,023.Aminoacyl-tRNA biosynthesis,1,1,8
+46.Methionine,023.Aminoacyl-tRNA biosynthesis,1,1,8
+52.Serine,023.Aminoacyl-tRNA biosynthesis,1,1,8
+54.Threonine,023.Aminoacyl-tRNA biosynthesis,1,1,8
+10.1-Aminocyclopropane-1-carboxylic acid ,024.Cysteine and methionine metabolism,1,4,8
+10.1-Aminocyclopropane-1-carboxylic acid ,024.Cysteine and methionine metabolism,1,4,8
+05.Ethylene,024.Cysteine and methionine metabolism,1,7,8
+16.Glutathione,024.Cysteine and methionine metabolism,1,2,8
+46.Methionine,024.Cysteine and methionine metabolism,1,1,8
+52.Serine,024.Cysteine and methionine metabolism,1,1,8
+34.Glucose,025.Mineral absorption,1,1,8
+18.Glycine,025.Mineral absorption,1,2,8
+42.L-Glutamine,025.Mineral absorption,1,1,8
+01.L-Proline,025.Mineral absorption,1,19,8
+44.L-Tryptophan,025.Mineral absorption,1,1,8
+46.Methionine,025.Mineral absorption,1,1,8
+52.Serine,025.Mineral absorption,1,1,8
+54.Threonine,025.Mineral absorption,1,1,8
+23.Acetyl-CoA,026.Biosynthesis of various other secondary metabolites,1,1,7
+29.Fructose-6-phosphate,026.Biosynthesis of various other secondary metabolites,1,1,7
+35.Glutamic acid,026.Biosynthesis of various other secondary metabolites,1,1,7
+44.L-Tryptophan,026.Biosynthesis of various other secondary metabolites,1,1,7
+47.Oxaloacetic acid,026.Biosynthesis of various other secondary metabolites,1,1,7
+52.Serine,026.Biosynthesis of various other secondary metabolites,1,1,7
+23.Acetyl-CoA,027.Butanoate metabolism,1,1,7
+30.Fumarate,027.Butanoate metabolism,1,1,7
+31.GABA,027.Butanoate metabolism,1,1,7
+35.Glutamic acid,027.Butanoate metabolism,1,1,7
+21.Succinate,027.Butanoate metabolism,1,2,7
+29.Fructose-6-phosphate,028.Carbon fixation in photosynthetic organisms,1,1,7
+17.Glyceraldehyde-3-phosphate,028.Carbon fixation in photosynthetic organisms,1,2,7
+19.Malic acid,028.Carbon fixation in photosynthetic organisms,1,2,7
+47.Oxaloacetic acid,028.Carbon fixation in photosynthetic organisms,1,1,7
+48.Phosphoenolpyruvic acid,028.Carbon fixation in photosynthetic organisms,1,1,7
+23.Acetyl-CoA,029.Glycolysis / Gluconeogenesis,1,1,7
+29.Fructose-6-phosphate,029.Glycolysis / Gluconeogenesis,1,1,7
+34.Glucose,029.Glycolysis / Gluconeogenesis,1,1,7
+17.Glyceraldehyde-3-phosphate,029.Glycolysis / Gluconeogenesis,1,2,7
+47.Oxaloacetic acid,029.Glycolysis / Gluconeogenesis,1,1,7
+48.Phosphoenolpyruvic acid,029.Glycolysis / Gluconeogenesis,1,1,7
+07.Ascorbic acid,030.Phosphotransferase system (PTS),1,5,7
+28.Fructose,030.Phosphotransferase system (PTS),1,1,7
+34.Glucose,030.Phosphotransferase system (PTS),1,1,7
+15.Glucose 6-phosphate,030.Phosphotransferase system (PTS),1,2,7
+48.Phosphoenolpyruvic acid,030.Phosphotransferase system (PTS),1,1,7
+22.Sucrose,030.Phosphotransferase system (PTS),1,2,7
+04.Abscisic acid,031.Plant hormone signal transduction,1,12,6
+05.Ethylene,031.Plant hormone signal transduction,1,7,6
+33.Gibberellin A4,031.Plant hormone signal transduction,1,1,6
+02.Indole-3-acetic acid,031.Plant hormone signal transduction,1,17,6
+14.Jasmonic acid,031.Plant hormone signal transduction,1,3,6
+06.Salicylic acid,031.Plant hormone signal transduction,1,6,6
+23.Acetyl-CoA,032.Pyruvate metabolism,1,1,7
+30.Fumarate,032.Pyruvate metabolism,1,1,7
+19.Malic acid,032.Pyruvate metabolism,1,2,7
+47.Oxaloacetic acid,032.Pyruvate metabolism,1,1,7
+48.Phosphoenolpyruvic acid,032.Pyruvate metabolism,1,1,7
+21.Succinate,032.Pyruvate metabolism,1,2,7
+31.GABA,033.Arginine and proline metabolism,1,1,6
+35.Glutamic acid,033.Arginine and proline metabolism,1,1,6
+01.L-Proline,033.Arginine and proline metabolism,1,19,6
+23.Acetyl-CoA,034.Biosynthesis of various plant secondary metabolites,1,1,6
+44.L-Tryptophan,034.Biosynthesis of various plant secondary metabolites,1,1,6
+46.Methionine,034.Biosynthesis of various plant secondary metabolites,1,1,6
+47.Oxaloacetic acid,034.Biosynthesis of various plant secondary metabolites,1,1,6
+48.Phosphoenolpyruvic acid,034.Biosynthesis of various plant secondary metabolites,1,1,6
+23.Acetyl-CoA,035.Degradation of aromatic compounds,1,1,6
+30.Fumarate,035.Degradation of aromatic compounds,1,1,6
+06.Salicylic acid,035.Degradation of aromatic compounds,1,6,6
+21.Succinate,035.Degradation of aromatic compounds,1,2,6
+28.Fructose,036.Galactose metabolism,1,1,6
+29.Fructose-6-phosphate,036.Galactose metabolism,1,1,6
+34.Glucose,036.Galactose metabolism,1,1,6
+17.Glyceraldehyde-3-phosphate,036.Galactose metabolism,1,2,6
+22.Sucrose,036.Galactose metabolism,1,2,6
+29.Fructose-6-phosphate,037.Pentose phosphate pathway,1,1,6
+34.Glucose,037.Pentose phosphate pathway,1,1,6
+17.Glyceraldehyde-3-phosphate,037.Pentose phosphate pathway,1,2,6
+36.Glycerate,037.Pentose phosphate pathway,1,1,6
+23.Acetyl-CoA,"038.Valine, leucine and isoleucine biosynthesis",1,1,6
+54.Threonine,"038.Valine, leucine and isoleucine biosynthesis",1,1,6
+23.Acetyl-CoA,"038.Valine, leucine and isoleucine degradation",1,1,6
+23.Acetyl-CoA,039.AMPK signaling pathway,1,1,5
+29.Fructose-6-phosphate,039.AMPK signaling pathway,1,1,5
+34.Glucose,039.AMPK signaling pathway,1,1,5
+49.Quercetin,039.AMPK signaling pathway,1,1,5
+23.Acetyl-CoA,040.Glutathione metabolism,1,1,5
+07.Ascorbic acid,040.Glutathione metabolism,1,5,5
+35.Glutamic acid,040.Glutathione metabolism,1,1,5
+16.Glutathione,040.Glutathione metabolism,1,2,5
+18.Glycine,040.Glutathione metabolism,1,2,5
+23.Acetyl-CoA,041.Lipoic acid metabolism,1,1,5
+18.Glycine,041.Lipoic acid metabolism,1,2,5
+23.Acetyl-CoA,042.Phenylalanine metabolism,1,1,5
+30.Fumarate,042.Phenylalanine metabolism,1,1,5
+21.Succinate,042.Phenylalanine metabolism,1,2,5
+28.Fructose,043.Starch and sucrose metabolism,1,1,5
+29.Fructose-6-phosphate,043.Starch and sucrose metabolism,1,1,5
+34.Glucose,043.Starch and sucrose metabolism,1,1,5
+15.Glucose 6-phosphate,043.Starch and sucrose metabolism,1,2,5
+22.Sucrose,043.Starch and sucrose metabolism,1,2,5
+26.D-Xylose-5-phosphate (D-Xylose),044.Amino sugar and nucleotide sugar metabolism,1,1,4
+28.Fructose,044.Amino sugar and nucleotide sugar metabolism,1,1,4
+29.Fructose-6-phosphate,044.Amino sugar and nucleotide sugar metabolism,1,1,4
+34.Glucose,044.Amino sugar and nucleotide sugar metabolism,1,1,4
+30.Fumarate,045.Arginine biosynthesis,1,1,4
+35.Glutamic acid,045.Arginine biosynthesis,1,1,4
+42.L-Glutamine,045.Arginine biosynthesis,1,1,4
+23.Acetyl-CoA,046.Benzoate degradation,1,1,4
+47.Oxaloacetic acid,046.Benzoate degradation,1,1,4
+23.Acetyl-CoA,047.Biosynthesis of various alkaloids,1,1,4
+44.L-Tryptophan,047.Biosynthesis of various alkaloids,1,1,4
+48.Phosphoenolpyruvic acid,047.Biosynthesis of various alkaloids,1,1,4
+06.Salicylic acid,047.Biosynthesis of various alkaloids,1,6,4
+23.Acetyl-CoA,048.C5-Branched dibasic acid metabolism,1,1,4
+35.Glutamic acid,048.C5-Branched dibasic acid metabolism,1,1,4
+41.Kaempferol,049.Degradation of flavonoids,1,1,4
+45.Luteolin,049.Degradation of flavonoids,1,1,4
+47.Oxaloacetic acid,049.Degradation of flavonoids,1,1,4
+49.Quercetin,049.Degradation of flavonoids,1,1,4
+30.Fumarate,050.Nicotinate and nicotinamide metabolism,1,1,4
+31.GABA,050.Nicotinate and nicotinamide metabolism,1,1,4
+21.Succinate,050.Nicotinate and nicotinamide metabolism,1,2,4
+08.Chlorophyll a,051.Porphyrin metabolism,1,5,4
+35.Glutamic acid,051.Porphyrin metabolism,1,1,4
+18.Glycine,051.Porphyrin metabolism,1,2,4
+54.Threonine,051.Porphyrin metabolism,1,1,4
+23.Acetyl-CoA,052.Propanoate metabolism,1,1,4
+21.Succinate,052.Propanoate metabolism,1,2,4
+18.Glycine,053.Purine metabolism,1,2,4
+42.L-Glutamine,053.Purine metabolism,1,1,4
+23.Acetyl-CoA,054.Chloroalkane and chloroalkene degradation,1,1,3
+05.Ethylene,054.Chloroalkane and chloroalkene degradation,1,7,3
+37.Glycolate,054.Chloroalkane and chloroalkene degradation,1,1,3
+18.Glycine,055.Cyanoamino acid metabolism,1,2,3
+52.Serine,055.Cyanoamino acid metabolism,1,1,3
+23.Acetyl-CoA,056.Dioxin degradation,1,1,3
+06.Salicylic acid,056.Dioxin degradation,1,6,3
+41.Kaempferol,057.Flavone and flavonol biosynthesis,1,1,3
+45.Luteolin,057.Flavone and flavonol biosynthesis,1,1,3
+49.Quercetin,057.Flavone and flavonol biosynthesis,1,1,3
+41.Kaempferol,058.Flavonoid biosynthesis,1,1,3
+45.Luteolin,058.Flavonoid biosynthesis,1,1,3
+49.Quercetin,058.Flavonoid biosynthesis,1,1,3
+28.Fructose,059.Fructose and mannose metabolism,1,1,3
+29.Fructose-6-phosphate,059.Fructose and mannose metabolism,1,1,3
+17.Glyceraldehyde-3-phosphate,059.Fructose and mannose metabolism,1,2,3
+23.Acetyl-CoA,060.Inositol phosphate metabolism,1,1,3
+15.Glucose 6-phosphate,060.Inositol phosphate metabolism,1,2,3
+17.Glyceraldehyde-3-phosphate,060.Inositol phosphate metabolism,1,2,3
+23.Acetyl-CoA,061.Lysine degradation,1,1,3
+18.Glycine,061.Lysine degradation,1,2,3
+21.Succinate,061.Lysine degradation,1,2,3
+35.Glutamic acid,062.Nitrogen metabolism,1,1,3
+42.L-Glutamine,062.Nitrogen metabolism,1,1,3
+18.Glycine,063.Phosphonate and phosphinate metabolism,1,2,3
+48.Phosphoenolpyruvic acid,063.Phosphonate and phosphinate metabolism,1,1,3
+23.Acetyl-CoA,064.Terpenoid backbone biosynthesis,1,1,3
+17.Glyceraldehyde-3-phosphate,064.Terpenoid backbone biosynthesis,1,2,3
+17.Glyceraldehyde-3-phosphate,065.Thiamine metabolism,1,2,3
+18.Glycine,065.Thiamine metabolism,1,2,3
+23.Acetyl-CoA,066.Tryptophan metabolism,1,1,3
+02.Indole-3-acetic acid,066.Tryptophan metabolism,1,17,3
+44.L-Tryptophan,066.Tryptophan metabolism,1,1,3
+30.Fumarate,067.Tyrosine metabolism,1,1,3
+21.Succinate,067.Tyrosine metabolism,1,2,3
+14.Jasmonic acid,068.alpha-Linolenic acid metabolism,1,3,2
+07.Ascorbic acid,069.Ascorbate and aldarate metabolism,1,5,2
+23.Acetyl-CoA,070.beta-Alanine metabolism,1,1,2
+31.GABA,070.beta-Alanine metabolism,1,1,2
+28.Fructose,071.Biosynthesis of nucleotide sugars,1,1,2
+29.Fructose-6-phosphate,071.Biosynthesis of nucleotide sugars,1,1,2
+12.Citric acid,072.Biosynthesis of siderophore group nonribosomal peptides,1,3,2
+06.Salicylic acid,072.Biosynthesis of siderophore group nonribosomal peptides,1,6,2
+31.GABA,073.cAMP signaling pathway,1,1,2
+21.Succinate,073.cAMP signaling pathway,1,2,2
+04.Abscisic acid,074.Carotenoid biosynthesis,1,12,1
+37.Glycolate,075.Chlorocyclohexane and chlorobenzene degradation,1,1,2
+21.Succinate,075.Chlorocyclohexane and chlorobenzene degradation,1,2,2
+34.Glucose,076.Efferocytosis,1,1,2
+46.Methionine,076.Efferocytosis,1,1,2
+23.Acetyl-CoA,077.Fatty acid degradation,1,1,2
+23.Acetyl-CoA,078.Fatty acid metabolism,1,1,2
+44.L-Tryptophan,079.Glucosinolate biosynthesis,1,1,2
+46.Methionine,079.Glucosinolate biosynthesis,1,1,2
+25.Dihydroxyacetone,080.Glycerolipid metabolism,1,1,2
+36.Glycerate,080.Glycerolipid metabolism,1,1,2
+34.Glucose,081.Indole alkaloid biosynthesis,1,1,2
+44.L-Tryptophan,081.Indole alkaloid biosynthesis,1,1,2
+06.Salicylic acid,082.Naphthalene degradation,1,6,2
+42.L-Glutamine,083.Nucleotide metabolism,1,1,2
+30.Fumarate,084.Oxidative phosphorylation,1,1,2
+21.Succinate,084.Oxidative phosphorylation,1,2,2
+26.D-Xylose-5-phosphate (D-Xylose),085.Pentose and glucuronate interconversions,1,1,2
+44.L-Tryptophan,"086.Phenylalanine, tyrosine and tryptophan biosynthesis",1,1,2
+48.Phosphoenolpyruvic acid,"086.Phenylalanine, tyrosine and tryptophan biosynthesis",1,1,2
+42.L-Glutamine,087.Pyrimidine metabolism,1,1,2
+52.Serine,088.Sulfur metabolism,1,1,2
+21.Succinate,088.Sulfur metabolism,1,2,2
+17.Glyceraldehyde-3-phosphate,089.Vitamin B6 metabolism,1,2,2
+42.L-Glutamine,089.Vitamin B6 metabolism,1,1,2
+23.Acetyl-CoA,090.Xylene degradation,1,1,2
+33.Gibberellin A4,097.Diterpenoid biosynthesis,1,1,1
+23.Acetyl-CoA,098.Ethylbenzene degradation,1,1,1
+23.Acetyl-CoA,099.Fatty acid biosynthesis,1,1,1
